@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692255023 source:g:\cpp codes\min heap\testdsclass\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+

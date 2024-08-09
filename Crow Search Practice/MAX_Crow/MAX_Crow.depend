@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672232719 source:g:\cpp codes\crow search practice\max_crow\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

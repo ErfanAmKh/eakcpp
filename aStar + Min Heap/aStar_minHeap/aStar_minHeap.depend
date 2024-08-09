@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708164160 source:g:\cpp codes\astar + min heap\astar_minheap\main.cpp
+	<chrono>
+	<iostream>
+	<math.h>
+	<cmath>
+	<ctime>
+
